@@ -3,7 +3,7 @@
 int main (){
 
 int limite;
-int resultado;
+int resultado=0;
 
 printf("Ingrese un numero entero positivo: ");
 scanf("%d", & limite);
